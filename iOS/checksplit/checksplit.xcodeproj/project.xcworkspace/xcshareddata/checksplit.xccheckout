@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E42CCA46-149A-4CC8-9BD0-98F7F3C961DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>checksplit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD8A16378200430E56CAE27235ECFB4F7312476F</key>
+		<string>https://github.com/jlgrady1/checksplit</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/checksplit/checksplit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD8A16378200430E56CAE27235ECFB4F7312476F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jlgrady1/checksplit</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD8A16378200430E56CAE27235ECFB4F7312476F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD8A16378200430E56CAE27235ECFB4F7312476F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>checksplit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
